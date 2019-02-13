@@ -83,7 +83,7 @@ module.exports = {
     },
     pubKeyHash: 0x38,
     scriptHash: 0x3c,
-    wif: xxxx
+    wif: 0x6c
   },
   particl_testnet: {
     messagePrefix: '\x19Particl Signed Message:\n',
@@ -93,7 +93,7 @@ module.exports = {
     },
     pubKeyHash: 0x76,
     scriptHash: 0x7a,
-    wif: xxxx
-  },
+    wif: 0x2e
+  }
 
 }
